@@ -1,6 +1,8 @@
 from pynput.keyboard import Key, Listener
 from datetime import datetime as dt
 
+# in order to use the script:
+# go to command line and write pip install pynput and press enter
 count = 0
 keys = []
 
